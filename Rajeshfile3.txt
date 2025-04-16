@@ -1,3 +1,7 @@
 Rajesh best friend null
+<<<<<<< HEAD
 
 two parson adding
+=======
+new parsan adding 
+>>>>>>> e11bb57031bc9cb606f3a77a1e0eb5205a7128ec
